@@ -1,4 +1,8 @@
-data/*
+data
+boks_titles.json
+book_id_map.csv
+goodreads_books.json.gz
+goodreads_interactions.csv
 
 
 # Byte-compiled / optimized / DLL files
