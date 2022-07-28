@@ -27,7 +27,7 @@ Needs: Users with similar taste + Predictions (KNN)
 
 ## Project steps
 
-+ 1. Find similar users
++ 1. Get similar users
 + 2. Create a matrix
 + 3. Recommend books
 
