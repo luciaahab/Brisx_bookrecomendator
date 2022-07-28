@@ -5,6 +5,7 @@ goodreads_books.json.gz
 goodreads_interactions.csv
 
 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
