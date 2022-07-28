@@ -2,7 +2,7 @@
 A crazy project
 ![Mr.Brando](/images/Marlon_reading.jpeg)
 
-## Datos y goals
+## Part 1 ~ Recommended books based on similar users likes
 
 ### Goals: 
 + Recommend books
@@ -18,3 +18,16 @@ A crazy project
 + 2. Create a book list - Done with the search engine
 
 + 3. Recommend books - This data can be used to recomend books that we might like and not read. 
+
+
+## Part 2 ~ Collaborative  filter
+goal : Personalized book recommendations
+Needs: Users with similar taste + Predictions (KNN)
+
+
+## Project steps
+
++ 1. Find similar users
++ 2. Create a matrix
++ 3. Recommend books
+
