@@ -1,5 +1,5 @@
-# Kamikaze
-A crazy project
+# Brisx ~ A book recommendation system
+
 ![Mr.Brando](/images/Marlon_reading.jpeg)
 
 ## Part 1 ~ Recommended books based on similar users likes
@@ -30,4 +30,10 @@ Needs: Users with similar taste + Predictions (KNN)
 + 1. Get similar users
 + 2. Create a matrix
 + 3. Recommend books
+
+### Next steps
+Improve style and usability
+
+
+
 
